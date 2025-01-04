@@ -1,0 +1,60 @@
+.topframe{
+    padding: 15px;
+    position: sticky;
+    top: 0px;
+    background-color: lightgray;
+
+.A0, .A0, .A0{
+    text-decoration: none;
+    margin-right: 15px;
+    color: black;
+    
+}
+}
+.left, .right{
+    display: inline-block;
+    
+}
+.right{
+    position: relative;
+  left: 850px;
+}
+/* Images*/
+.image-1{
+    position: relative;
+}
+.d1{
+    position: absolute;
+    top: 400px;
+    right: 450px;
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+strong{
+    background-color: black;
+}
+.bottom{
+    position: relative;
+    top: 0px;
+}
+.b1, .b2, .b3, .b4{
+    display: inline-block;
+    width: 300px;
+}
+.T1, .T2, .T3, .T4{
+    width: 100%;
+}
+.T1{
+    position: relative;
+    
+}
+.p1, .p2, .p3, .p4{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: -15px;
+    padding: 3PX;
+    
+
+}
